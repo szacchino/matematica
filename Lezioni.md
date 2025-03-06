@@ -126,7 +126,15 @@ Markdown è un modo di scrivere testo formattandolo con una sintassi minimale. I
     <span style="color:red">Hello world!</span>
     ```
 
+### Utilizzo dell'estensione Rise
 
+È possibile presentare delle slide all'interno di un notebook jupyter. Per farlo occorre installare l'estensione Rise:
+
+```bash
+pip install jupyterlab-rise RISE
+```
+
+Aprendo il notebook
 
 
 
